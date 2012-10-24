@@ -25,5 +25,8 @@ folder to "dragonslair", then copy that folder
 to your Moodle theme directory.
 
 **************** Updates ****************
+24/10/12
+- Fixed main content token.
+
 02/07/12
 - Block regions fixed for Moodle 2.3
